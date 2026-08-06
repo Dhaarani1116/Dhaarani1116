@@ -19,7 +19,6 @@
 - 🩺 AI Engineer Intern @ **Synapslogic** — built *MediVoice*, a speech-to-report healthcare tool
 - 🌱 MLOps Intern @ **Aptitude Guru** — built *EcoTrack*, a carbon-aware self-healing MLOps platform
 - 🔬 Research Intern @ **NIELIT Calicut** — built *CaptoDebot*, a distributed GPU-sharing platform
-- 🏆 SIH 2025 Finalist, and top finishes across multiple hackathons
 - 🚀 14+ projects spanning AI/ML, Computer Vision, IoT, and Full Stack Development
 - 📫 Always open to opportunities, collaborations, and interesting problems
 
@@ -80,7 +79,6 @@
 
 ### 🏆 Hackathons & Achievements
 
-- 🥇 **Smart India Hackathon (SIH) 2025** — Finalist, Autonomous Railway Inspection Rover
 - 🏅 **Adya AI Hack 'n' Thon 2025** — Top 30 of 75 teams
 - 🎖️ **SHECodesAI Hackathon 2026** — 4th place among 36+ teams
 - 🏆 **BARNSTROMZ 2K25** — 2nd Place (Project Expo) + Winner (Poster Making)
